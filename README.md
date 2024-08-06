@@ -1,10 +1,10 @@
 ## Hi 👋 My name is Caitlyn. Most people call me Kit.
 
-### I'm a Software developer
-------------------
+I'm a software developer based in Cape Town, South Africa, specialising in **ReactJS**, with additional experience in **Django** and **Python** and a passion for **UX design**. 
 
-* 🌍  I'm based in Cape Town, South Africa
-* ✉️  You can contact me at [caitlynfowkes@gmail.com](mailto:caitlynfowkes@gmail.com)
+On weekends, you can catch me falling off my surfboard 🏄🏻‍♀️, moving to music 💃, or researching the next wonderful place to explore ✈️.
+
+✉️  You can contact me at [caitlynfowkes@gmail.com](mailto:caitlynfowkes@gmail.com)
 
 ### Skills
 
